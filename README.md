@@ -1,5 +1,5 @@
 # underwater_detection
-underwater detection using YOLOV4
+underwater detection using YOLOV4[YOLOV4](https://arxiv.org/pdf/2004.10934.pdf)
 
 ## Results
 ![image](https://github.com/MonkeyKing-KK/underwater_detection/blob/master/results/000001.jpg)
