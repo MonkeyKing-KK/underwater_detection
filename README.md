@@ -2,6 +2,8 @@
 underwater detection using [YOLOV4](https://arxiv.org/pdf/2004.10934.pdf)
 
 ## Results
+mAP of detection
+![image](https://github.com/MonkeyKing-KK/underwater_detection/blob/master/results/mAP.png)
 ![image](https://github.com/MonkeyKing-KK/underwater_detection/blob/master/results/000001.jpg)
 ![image](https://github.com/MonkeyKing-KK/underwater_detection/blob/master/results/000262.jpg)
 ![image](https://github.com/MonkeyKing-KK/underwater_detection/blob/master/results/000279.jpg)
